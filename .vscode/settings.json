@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "**/*.html": "html",
+    "**/requirements{/**,*}.{txt,in}": "pip-requirements",
+    "*.erb": "erb",
+    "*.css": "css",
+    "*.html": "html",
+    "*.env": "properties",
+    "math.h": "c",
+    "screensaver.h": "c"
+  }
+}
